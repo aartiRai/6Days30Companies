@@ -4,12 +4,12 @@
 ### Problems
 
 <details open>
-<summary style="font-size: 1.2em">Goldman Sachs (3/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (2/15)</summary>
 
 | Sr No. | Problems                                 | Link                                                        | Status |
 | :----- | :--------------------------------------- | :---------------------------------------------------------- | :----- |
-| 1      | Minimize the Maximum of Two Arrays       | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/)           |       |
-| 2      | Employee Priority Systems               | [LeetCode](https://leetcode.com/problems/high-access-employees/)                         |     |
+| 1      | Minimize the Maximum of Two Arrays       | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/)           |  ✅     |
+| 2      | Employee Priority Systems               | [LeetCode](https://leetcode.com/problems/high-access-employees/)                         |   ✅  |
 | 3      | Kth smallest element Query               | [LeetCode](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)              |     |
 | 4      | Combination Sum                          | [LeetCode](https://leetcode.com/problems/combination-sum-iii/)                            |       |
 | 5      | Flip Matrix                              | [LeetCode](https://leetcode.com/problems/random-flip-matrix/)                              |       |
