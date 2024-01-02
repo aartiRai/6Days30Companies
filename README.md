@@ -1,13 +1,11 @@
-# 6Days30Companies
-
 | 1 | Minimize the Maximum of Two Arrays |[![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/)   |     |
-| 2 | Employee Priority Systems | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/high-access-employees/) |    |
-| 3 | Kth smallest element Query | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) |    |
-| 4 | Combination Sum | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/combination-sum-iii/) |    |
+| 2 | Employee Priority Systems | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/high-access-employees/) |    ✅ |
+| 3 | Kth smallest element Query | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) |    ✅ |
+| 4 | Combination Sum | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/combination-sum-iii/) |    ✅ |
 | 4 | Combination Sum | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/combination-sum-iii/) |     |
 | 5 | Flip Matrix | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/random-flip-matrix/) |     |
 | 6 | Combinations in Phone Number | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |     |
-| 6 | Combinations in Phone Number | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |   |
+| 6 | Combinations in Phone Number | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  ✅   |
 | 7 | Find Missing and Repeating | [![Problem Link](./assets/gfg.svg)](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) |     |
 | 8 | Finding Consecutive Integers From a Data Stream | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) |     |
 | 9 | Following a Number Pattern | [![Problem Link](./assets/gfg.svg)](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1) |     |
