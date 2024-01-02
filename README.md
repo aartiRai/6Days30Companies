@@ -1,6 +1,6 @@
 # 6Days30Companies
 
-| First Header  | Second Header |
+| Sr. No.  | Question Name |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
