@@ -13,7 +13,7 @@
 | 3      | Kth smallest element Query               | [LeetCode](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)              |     |
 | 4      | Combination Sum                          | [LeetCode](https://leetcode.com/problems/combination-sum-iii/)                            |       |
 | 5      | Flip Matrix                              | [LeetCode](https://leetcode.com/problems/random-flip-matrix/)                              |       |
-| 6      | Combinations in Phone Number             | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)          | ✅    |
+| 6      | Combinations in Phone Number             | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)          |     |
 | 7      | Find Missing and Repeating               | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) |       |
 | 8      | Finding Consecutive Integers From a Data Stream | [LeetCode](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) |       |
 | 9      | Following a Number Pattern               | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)  |       |
